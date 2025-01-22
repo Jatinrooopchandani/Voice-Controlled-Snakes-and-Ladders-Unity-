@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Snakes and ladders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73781D68-8584-7BF0-847C-C7800F0DBF85}|Assembly-CSharp.csproj|c:\\users\\asus\\snakes and ladders\\assets\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73781D68-8584-7BF0-847C-C7800F0DBF85}|Assembly-CSharp.csproj|solutionrelative:assets\\gamecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73781D68-8584-7BF0-847C-C7800F0DBF85}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Snakes and ladders\\assets\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73781D68-8584-7BF0-847C-C7800F0DBF85}|Assembly-CSharp.csproj|solutionrelative:assets\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73781D68-8584-7BF0-847C-C7800F0DBF85}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Snakes and ladders\\assets\\logic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73781D68-8584-7BF0-847C-C7800F0DBF85}|Assembly-CSharp.csproj|solutionrelative:assets\\logic1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73781D68-8584-7BF0-847C-C7800F0DBF85}|Assembly-CSharp.csproj|C:\\Users\\Asus\\Snakes and ladders\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73781D68-8584-7BF0-847C-C7800F0DBF85}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Snakes and ladders\\Assets\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Asus\\Snakes and ladders\\Assets\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\MainMenu.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T12:17:11.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Snakes and ladders\\Assets\\Dice.cs",
+              "RelativeDocumentMoniker": "Assets\\Dice.cs",
+              "ToolTip": "C:\\Users\\Asus\\Snakes and ladders\\Assets\\Dice.cs",
+              "RelativeToolTip": "Assets\\Dice.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAgwGUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:43:49.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gameControl.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Snakes and ladders\\Assets\\gameControl.cs",
+              "RelativeDocumentMoniker": "Assets\\gameControl.cs",
+              "ToolTip": "C:\\Users\\Asus\\Snakes and ladders\\Assets\\gameControl.cs",
+              "RelativeToolTip": "Assets\\gameControl.cs",
+              "ViewState": "AQIAAAABAAAAAAAAAAAgwBcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:07:17.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logic1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Snakes and ladders\\Assets\\Logic1.cs",
+              "RelativeDocumentMoniker": "Assets\\Logic1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Snakes and ladders\\Assets\\Logic1.cs",
+              "RelativeToolTip": "Assets\\Logic1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwBwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:33:42.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
